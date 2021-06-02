@@ -1,6 +1,6 @@
 ## About Me  
 
-### Hi there ，I'm iDark ，I am a senior front-end development engineer 👋
+### Hi there ，I'm iDark ，I am a senior front-end development engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
