@@ -2,10 +2,9 @@
 
 ### Hi there ，I'm iDark ，I am a senior front-end development engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+### 我是饼干_，一名前端开发，热衷于分享所学。
 
-
-
-
+### 掘金：https://juejin.cn/user/2339399368751325/posts
 
 
 <!--
